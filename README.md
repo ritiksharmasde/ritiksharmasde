@@ -1,5 +1,5 @@
 <img src="github-header-image.png" alt="Github Banner" width="100%" />
-# 💫 I:
+# 💫 :
 I specialize in Machine Learning and Data Structures & Algorithms (DSA) using Java, actively collaborating on Artificial Intelligence and Machine Learning models. , 
 
 
