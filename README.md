@@ -1,5 +1,6 @@
-# 💫 About Me:
-MACHING LEARNING AND DSA USING JAVA , COLLABORATE ON ARTIFICIAL INTELLIGENCE AND MACHING LEARNING MODELS  , 
+<img src="github-header-image.png" alt="Github Banner" width="100%" />
+# 💫 I:
+I specialize in Machine Learning and Data Structures & Algorithms (DSA) using Java, actively collaborating on Artificial Intelligence and Machine Learning models. , 
 
 
 ## 🌐 Socials:
